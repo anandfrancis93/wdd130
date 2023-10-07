@@ -1,0 +1,28 @@
+body
+{
+    background-color: pink;
+}
+
+.main_content
+{
+    width: 960px;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+}
+
+#list
+{
+    color: black;
+    text-align: left;
+}
+
+img
+{
+    width: 480px;
+}
+
+.footer_text
+{
+    color: black;
+}
