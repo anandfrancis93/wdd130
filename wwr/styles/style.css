@@ -46,13 +46,13 @@ nav a
 {
     text-decoration: none;
     color: white;
+    text-align: center;
 }
 
 nav a:hover
 {
     background-color:white;
     color: #AAC4FF;
-    text-align: center;
 }
 
 #hero-image
@@ -73,6 +73,7 @@ nav a:hover
 .button-box
 {
     text-align: center;
+    background-color: white;
 }
 
 main section
