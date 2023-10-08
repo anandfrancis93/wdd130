@@ -1,27 +1,34 @@
 body
 {
-    background-color:brown
+    background-color: white;
 }
 
 
 header
 {
-    background-color:blueviolet
+    background-color:#AAC4FF;
 }
 
 footer
 {
-    background-color:crimson;
+    background-color:#AAC4FF;
+    color: white;
 }
 
 footer a
 {
     text-decoration: none;
+    color: white;
 }
 
 footer p
 {
     font-size: 1.2em;
+}
+
+footer a:hover
+{
+    color: black;
 }
 
 footer p a:hover
@@ -48,11 +55,13 @@ a
 nav a
 {
     text-decoration: none;
+    color: white;
 }
 
 nav a:hover
 {
-    background-color:blue;
+    background-color:white;
+    color: #AAC4FF;
 }
 
 #hero-msg h1
@@ -78,27 +87,60 @@ main section
 #background
 {
     height: 725px;
-    background-color:bisque;
+    background-color:#D2DAFF;
 }
 
 .book
 {
-    background-color:chocolate;
+    background-color:white;
     text-decoration: none;
+    color: #AAC4FF;
+}
+
+.book:hover
+{
+    color: black;
 }
 
 .join
 {
-    background-color:chartreuse;
+    background-color:white;
     text-decoration: none;
+    color: #AAC4FF;
+}
+
+.join:hover
+{
+    color: black;
 }
 
 .msg
 {
-    background-color:coral;
+    color: white;
+    background-color: #AAC4FF;
+}
+
+.msg h2
+{
+    color: white;
+}
+
+.msg p
+{
+    color: white;
 }
 
 .icon
 {
     width: 80px;
+}
+
+.home-title
+{
+    color: #AAC4FF;
+}
+
+h4
+{
+    color: #AAC4FF;
 }
