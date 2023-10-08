@@ -89,9 +89,9 @@ main section
 
 .book
 {
-    background-color:white;
+    background-color:#B1B2FF;
     text-decoration: none;
-    color: #AAC4FF;
+    color: white;
 }
 
 .book:hover
@@ -101,9 +101,9 @@ main section
 
 .join
 {
-    background-color:white;
+    background-color:#B1B2FF;
     text-decoration: none;
-    color: #AAC4FF;
+    color: white;
 }
 
 .join:hover
