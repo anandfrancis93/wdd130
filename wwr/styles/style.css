@@ -42,16 +42,6 @@ footer p a:hover
     margin: 0 auto;
 }
 
-nav
-{
-    text-align: center;
-}
-
-a
-{
-    text-align: center;
-}
-
 nav a
 {
     text-decoration: none;
@@ -62,6 +52,12 @@ nav a:hover
 {
     background-color:white;
     color: #AAC4FF;
+    text-align: center;
+}
+
+#hero-image
+{
+    width: 100%;
 }
 
 #hero-msg h1
@@ -140,7 +136,17 @@ main section
     color: #AAC4FF;
 }
 
+.home-grid
+{
+    color: #AAC4FF;
+}
+
 h4
 {
     color: #AAC4FF;
+}
+
+.logo
+{
+    width: 80px;
 }
