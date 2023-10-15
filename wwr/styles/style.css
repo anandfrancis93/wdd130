@@ -103,7 +103,7 @@ main section img
 {
     height: 725px;
     background-color:#D2DAFF;
-    margin-bottom: 20px;
+    margin-bottom: 200px;
 }
 
 .book
@@ -216,4 +216,9 @@ h4
 .card-img
 {
     border: 10px solid #B1B2FF;
+}
+
+.mountains
+{
+    margin-bottom: 200px;
 }
