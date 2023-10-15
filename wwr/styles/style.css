@@ -9,7 +9,6 @@ body
     padding: 0;
 }
 
-
 header
 {
     background-color:#AAC4FF;
@@ -149,6 +148,7 @@ main section img
 .msg h2
 {
     color: white;
+    font-family: "Poppins", "Times New Roman", "Arial", "sans-serif";
 }
 
 .msg p
@@ -169,6 +169,7 @@ main section img
     color: #AAC4FF;
     font-size: 2em;
     margin-top: 10px;
+    font-family: "Poppins", "Times New Roman", "Arial", "sans-serif";
 }
 
 .home-grid
