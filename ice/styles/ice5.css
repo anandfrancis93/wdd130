@@ -1,0 +1,24 @@
+body
+{
+    margin: 0;
+    
+}
+
+.top_background
+{
+    width: 100%;
+}
+
+.bottom
+{
+    background-color: grey;
+    width: 100%;
+    text-align: center;
+}
+
+.bottom_images
+{
+    border-radius: 60%;
+    border: 10px solid black;
+    height: 150px;
+}
