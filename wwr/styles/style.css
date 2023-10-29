@@ -11,7 +11,7 @@ body
 
 header
 {
-    background-color:rgba(170, 196, 255, 0.1);
+    background-color:rgba(170, 196, 255, 0.3);
     display: grid;
     grid-template-columns: 150px auto;
 }
@@ -108,19 +108,18 @@ nav a:hover
 #hero-msg h1
 {
     text-align: center;
-    color: white;
+    color: AAC4FF;
 }
 
 #hero-msg h4
 {
     text-align: center;
-    color: white;
+    color: #AAC4FF;
 }
 
 .button-box
 {
     text-align: center;
-    background-color: AAC4FF;
 }
 
 main section
@@ -326,7 +325,7 @@ h4
     .home-title
     {
         font-size: 25px;
-        color: #6f7364;
+        color: #AAC4FF;
     }
 
     .rivers-card, .camping-card, .rapids-card
