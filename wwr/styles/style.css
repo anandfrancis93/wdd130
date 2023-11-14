@@ -19,14 +19,14 @@ header
     display: grid;
     grid-template-columns: 150px auto;
     margin-bottom: 20px;
-    background-color:#3d55cc;
+    background-color:#3449C6;
     border-radius: 10px;
 
 }
 
 footer
 {
-    background-color:#3d55cc;
+    background-color:#3449C6;
     color: white;
     padding: 25px 50px;
     display: flex;
@@ -162,7 +162,7 @@ main section img
 
 .book
 {
-    background-color:#3d55cc;
+    background-color:#3449C6;
     text-decoration: none;
     color: white;
     font-size: 18px;
@@ -180,7 +180,7 @@ main section img
 {
     background-color:white;
     text-decoration: none;
-    color: #3d55cc;
+    color: #3449C6;
     font-size: 18px;
     padding: 15px 30px;
     margin-top: 50px;
@@ -195,7 +195,7 @@ main section img
 .msg
 {
     color: white;
-    background-color: #3d55cc;
+    background-color: #3449C6;
     line-height: 1.5em;
     padding: 35px;
     grid-column: 6/10;
