@@ -143,6 +143,11 @@ nav a:hover
     text-align: center;
 }
 
+main
+{
+    padding: 50px;
+}
+
 main section
 {
     text-align: center;
